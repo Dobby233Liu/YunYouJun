@@ -18,12 +18,12 @@ i have oc check it out
 
 #### Languages
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=ghost&show_icons=true&icon_color=0078e7&title_color=0078e7">
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=PapyrusWuzHere&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-Hell if i know. run generate. Also change the stats params above
+Hell if i know. run generate. Also change the stats params above because it shouldnt be yours
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
