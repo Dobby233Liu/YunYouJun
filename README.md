@@ -23,7 +23,7 @@ i have oc check it out
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-Hell if i know. run generate. Also change the stats params above because it shouldnt be yours
+Hell if i know. run generate. Also change the stats params above because it shouldnt be yours its literally a random person
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
